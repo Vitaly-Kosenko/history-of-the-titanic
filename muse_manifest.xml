@@ -1,0 +1,165 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="history-of-the-titanic.com" resolutions="1x" timestamp="1625217128927">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="__________-_________.css" crc="3781508103" ref="внутреннее-убранство"/>
+    <file name="_-________-________.css" crc="3944979500" ref="в-массовой-культуре"/>
+    <file name="_______-_________.css" crc="303836881" ref="ходовые-испытания"/>
+    <file name="index.css" crc="4065681949" ref="index"/>
+    <file name="______-_-_________-____.css" crc="95176530" ref="первый-и-последний-рейс"/>
+    <file name="___________-_____________.css" crc="473237361" ref="предпосылки-строительства"/>
+    <file name="________-__________.css" crc="342093626" ref="крушение-«титаника»"/>
+    <file name="_________.css" crc="204160205" ref="постройка"/>
+    <file name="_________-_-___.css" crc="3937402228" ref="освещение-в-сми"/>
+    <file name="___________.css" crc="4016288207" ref="конструкция"/>
+    <file name="_______-________.css" crc="443864999" ref="причины-крушения"/>
+    <file name="____________.css" crc="72186069" ref="оборудование"/>
+    <file name="_______.css" crc="3938677030" ref="обломки"/>
+  </folder>
+  <folder name="assets">
+    <file name="10.jpg" crc="3868100369" seo="true" mt="1617739366000"/>
+    <file name="20.jpg" crc="17048356" seo="true" mt="1617733509000"/>
+    <file name="30.mp4" crc="4272043350" seo="true" mt="1614974804000"/>
+    <file name="40.mp4" crc="6894141" seo="true" mt="1614974427000"/>
+    <file name="50.png" crc="3981465243" seo="true" mt="1617794459000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:предпосылки-строительства:постройка:конструкция:оборудование:внутреннее-убранство:ходовые-испытания:первый-и-последний-рейс:крушение-«титаника»:освещение-в-сми:причины-крушения:обломки:в-массовой-культуре"/>
+    <file name="museutils.js" crc="163421577" ref="index:предпосылки-строительства:постройка:конструкция:оборудование:внутреннее-убранство:ходовые-испытания:первый-и-последний-рейс:крушение-«титаника»:освещение-в-сми:причины-крушения:обломки:в-массовой-культуре"/>
+    <file name="whatinput.js" crc="86476730" ref="index:предпосылки-строительства:постройка:конструкция:оборудование:внутреннее-убранство:ходовые-испытания:первый-и-последний-рейс:крушение-«титаника»:освещение-в-сми:причины-крушения:обломки:в-массовой-культуре"/>
+    <file name="museconfig.js" crc="168988563" ref="index:предпосылки-строительства:постройка:конструкция:оборудование:внутреннее-убранство:ходовые-испытания:первый-и-последний-рейс:крушение-«титаника»:освещение-в-сми:причины-крушения:обломки:в-массовой-культуре"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:предпосылки-строительства:постройка:конструкция:оборудование:внутреннее-убранство:ходовые-испытания:первый-и-последний-рейс:крушение-«титаника»:освещение-в-сми:причины-крушения:обломки:в-массовой-культуре"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:предпосылки-строительства:постройка:конструкция:оборудование:внутреннее-убранство:ходовые-испытания:первый-и-последний-рейс:крушение-«титаника»:освещение-в-сми:причины-крушения:обломки:в-массовой-культуре"/>
+    <file name="require.js" crc="244322403" ref="index:предпосылки-строительства:постройка:конструкция:оборудование:внутреннее-убранство:ходовые-испытания:первый-и-последний-рейс:крушение-«титаника»:освещение-в-сми:причины-крушения:обломки:в-массовой-культуре"/>
+  </folder>
+  <folder name="images">
+    <file name="история-титаника-favicon.ico" crc="3767950993" ref="index"/>
+    <file name="stockvault-blue-sky-background-with-clouds-and-sun176288.jpg" crc="217649029" ref="index:конструкция:оборудование:внутреннее-убранство:ходовые-испытания:первый-и-последний-рейс:крушение-«титаника»:освещение-в-сми:причины-крушения:обломки:в-массовой-культуре"/>
+    <file name="istockphoto-1194410287-170667a.jpg" crc="4036972694" ref="index:предпосылки-строительства:постройка:конструкция:оборудование:внутреннее-убранство:ходовые-испытания:первый-и-последний-рейс:крушение-«титаника»:освещение-в-сми:причины-крушения:обломки:в-массовой-культуре"/>
+    <file name="top-photo_a9126.jpg" crc="364918917" ref="index:предпосылки-строительства:постройка:конструкция:оборудование:внутреннее-убранство:ходовые-испытания:первый-и-последний-рейс:крушение-«титаника»:освещение-в-сми:причины-крушения:обломки:в-массовой-культуре"/>
+    <file name="istockphoto-503132519-170667a-u239-fr.jpg" crc="473270900" ref="index"/>
+    <file name="titanic-u250-fr.jpg" crc="3809027107" ref="index"/>
+    <file name="cd89a7443d0c9c1712d2e3ba9f86b7a8-u261-fr.jpg" crc="3983797117" ref="index"/>
+    <file name="download.jpg" crc="454556164" ref="index"/>
+    <file name="007fhyy8-u275-fr.jpg" crc="321940490" ref="index"/>
+    <file name="6faf4c-u278-fr.jpg" crc="43613355" ref="index"/>
+    <file name="okean_more_vid_sverhu_135822_1920x1080.jpg" crc="3903052896" ref="index"/>
+    <file name="favicon.ico" crc="3767950993" ref="предпосылки-строительства"/>
+    <file name="stockvault-blue-sky-background-with-clouds-and-sun176288-u490-fr.jpg" crc="496245966" ref="предпосылки-строительства"/>
+    <file name="j_bruce_ismayjpeg.jpg" crc="177648526" seo="true" ref="предпосылки-строительства"/>
+    <file name="okean_more_vid_sverhu_135822_1920x10802.jpg" crc="3903052896" ref="предпосылки-строительства:постройка:конструкция:оборудование:внутреннее-убранство:ходовые-испытания:первый-и-последний-рейс:крушение-«титаника»:освещение-в-сми:причины-крушения:обломки:в-массовой-культуре"/>
+    <file name="stockvault-blue-sky-background-with-clouds-and-sun1762882.jpg" crc="4166468689" ref="постройка"/>
+    <file name="175px-thomas_andrews_ül.jpg" crc="4039520809" seo="true" ref="постройка"/>
+    <file name="250px-construction_of_titanic_and_olympic.jpg" crc="3890068302" seo="true" ref="постройка"/>
+    <file name="220px-rms_titanic_ready_for_launch,_1911.jpg" crc="4154128118" seo="true" ref="постройка"/>
+    <file name="240px-launching_of_titanic_2.jpg" crc="189553069" seo="true" ref="постройка"/>
+    <file name="rms_titanic_in_thompson_graving_dock.jpg" crc="203730551" seo="true" ref="постройка"/>
+    <file name="220px-titanic-s_propeller_shaft_installation.jpg" crc="311587504" seo="true" ref="постройка"/>
+    <file name="300px-ru_mary_titanicsvg.png" crc="340492584" seo="true" ref="конструкция"/>
+    <file name="titanic_side_plan_annotated_russian.jpg" crc="4068015280" seo="true" ref="конструкция"/>
+    <file name="250px-passerelle_de_navigation_du_rms_olympic-sharpenai-sharpen.jpg" crc="4023066641" seo="true" ref="конструкция"/>
+    <file name="250px-2nd_class_elevator_(rms_olympic).jpg" crc="3990858224" seo="true" ref="конструкция"/>
+    <file name="pantry_aboard_rms_olympic.jpg" crc="3871723673" seo="true" ref="конструкция"/>
+    <file name="funnel_for_titanic.jpg" crc="4274564689" seo="true" ref="конструкция"/>
+    <file name="250px-triple_expansion_engine_animation.gif" crc="4158204009" seo="true" ref="оборудование"/>
+    <file name="230px-rms_olympic-s_propellers.jpg" crc="24963455" seo="true" ref="оборудование"/>
+    <file name="250px-steeringengine-gigapixel-scale-6_00x.jpg" crc="3847159111" seo="true" ref="оборудование"/>
+    <file name="250px-electrical_power_plant_(olympic-class_ocean_liner).jpg" crc="515415902" seo="true" ref="оборудование"/>
+    <file name="250px-1913_marconi_operator_room_for_5_kilowatt_ocean_liner_station.jpg" crc="119515891" seo="true" ref="оборудование"/>
+    <file name="port-s_lifeboats_on_titanic.jpg" crc="4262668018" seo="true" ref="оборудование"/>
+    <file name="250px-b-21.jpg" crc="335302677" seo="true" ref="внутреннее-убранство"/>
+    <file name="250px-b-51.jpg" crc="4094230516" seo="true" ref="внутреннее-убранство"/>
+    <file name="230px-b-58.jpg" crc="412775088" seo="true" ref="внутреннее-убранство"/>
+    <file name="220px-titanic-s_b_59_stateroom.jpg" crc="4253675478" seo="true" ref="внутреннее-убранство"/>
+    <file name="250px-the_swimming_pool_of_the_titanic.jpg" crc="385473002" seo="true" ref="внутреннее-убранство"/>
+    <file name="230px-titanic_a_la_carte_restaurant.jpg" crc="126608903" seo="true" ref="внутреннее-убранство"/>
+    <file name="230px-titanic_cafe_parisien.jpg" crc="3773979623" seo="true" ref="внутреннее-убранство"/>
+    <file name="1stclasslounge.jpg" crc="1309709" seo="true" ref="внутреннее-убранство"/>
+    <file name="230px-r-w_room.jpg" crc="4102284784" seo="true" ref="внутреннее-убранство"/>
+    <file name="220px-smokeroom.jpg" crc="4134933072" seo="true" ref="внутреннее-убранство"/>
+    <file name="220px-gym.jpg" crc="3950055915" seo="true" ref="внутреннее-убранство"/>
+    <file name="230px-2nd_class_smoking_room.jpg" crc="3806630145" seo="true" ref="внутреннее-убранство"/>
+    <file name="180px-3rd_class_cabin.jpg" crc="4089755622" seo="true" ref="внутреннее-убранство"/>
+    <file name="olympic_in_new_york_cropped-crop-u1290.jpg" crc="190231535" ref="внутреннее-убранство"/>
+    <file name="250px-rms_titanic_2.jpg" crc="149706274" seo="true" ref="ходовые-испытания"/>
+    <file name="belfast-lough2.jpg" crc="4126562134" seo="true" ref="ходовые-испытания"/>
+    <file name="150px-edward_j_smith.jpg" crc="111117837" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="titanic_surviving_officers.jpg" crc="28451379" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="frederick_fleet_titanic.jpg" crc="3968413490" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="jack_george_phillips.jpg" crc="3912717942" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="150px-bguggenheim.jpg" crc="426102553" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="150px-ida_and_isidor_straus.jpg" crc="517137105" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="150px-margaret_brown,_standing.jpg" crc="440841669" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="250px-goodwinfamily.jpg" crc="305281000" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="bottled_beer_titanic.jpg" crc="152638770" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="titanics_skrov.jpg" crc="532289442" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="240px-titanic_in_southampton.jpg" crc="4027520457" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="titanic-and-newyork.jpg" crc="3971721467" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="rms_titanic_5.jpg" crc="183739889" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="america_and_ireland.jpg" crc="4094015436" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="250px-titanic-cobh-harbour-1912.jpg" crc="102208825" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="titanic_leaving_irish_coasts-crop-u1815.jpg" crc="270002943" ref="первый-и-последний-рейс"/>
+    <file name="titanic-cobh-harbour.jpg" crc="274210472" ref="первый-и-последний-рейс"/>
+    <file name="(ru)_titanic_voyage_mapsvg.png" crc="221995230" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="250px-passengers_of_the_rms_titanic.jpg" crc="40370050" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="titanic_iceberg.jpg" crc="4074557113" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="titanic-lifeboat.gif" crc="4237512196" seo="true" ref="первый-и-последний-рейс"/>
+    <file name="rms_carpathia.jpg" crc="309298725" ref="первый-и-последний-рейс"/>
+    <file name="274px-stöwer_titanic.jpg" crc="3831968064" seo="true" ref="крушение-«титаника»"/>
+    <file name="titanic-s_life_jacket.jpg" crc="4228170516" seo="true" ref="крушение-«титаника»"/>
+    <file name="200px-titanic_bridge_and_crow-s_nest.jpg" crc="4284847765" seo="true" ref="крушение-«титаника»"/>
+    <file name="titanic_porting_around_russiansvg.png" crc="62135586" seo="true" ref="крушение-«титаника»"/>
+    <file name="iceberg_and_titanic_(ru)svg.png" crc="91009285" seo="true" ref="крушение-«титаника»"/>
+    <file name="180px-william_mcmaster_murdoch,_photograph_taken_before_1911.jpg" crc="484249504" seo="true" ref="крушение-«титаника»"/>
+    <file name="titanic_iceberg2.jpg" crc="4074557113" seo="true" ref="крушение-«титаника»"/>
+    <file name="200px-thesos.jpg" crc="4266350493" seo="true" ref="крушение-«титаника»"/>
+    <file name="boat_deck_of_titanic.jpg" crc="3956960903" seo="true" ref="крушение-«титаника»"/>
+    <file name="175px-the_sad_parting_-_no_caption.jpg" crc="517979998" seo="true" ref="крушение-«титаника»"/>
+    <file name="300px-ships_around_rms_titanic_rusvg.png" crc="4270445229" seo="true" ref="крушение-«титаника»"/>
+    <file name="200px-leaving_the_sinking_liner.jpg" crc="417653214" seo="true" ref="крушение-«титаника»"/>
+    <file name="rms_titanic_boat_deck_plansvg.jpg" crc="215409732" seo="true" ref="крушение-«титаника»"/>
+    <file name="650px-sinking_of_the_rms_titanic_animation.gif" crc="65704648" seo="true" ref="крушение-«титаника»"/>
+    <file name="archibald_gracie_iv.jpg" crc="530933803" seo="true" ref="крушение-«титаника»"/>
+    <file name="titanic-lifeboat2.gif" crc="49133974" seo="true" ref="крушение-«титаника»"/>
+    <file name="220px-unknowboatoftitanic.gif" crc="369759968" seo="true" ref="крушение-«титаника»"/>
+    <file name="boat1oftitanic.jpg" crc="3884307453" seo="true" ref="крушение-«титаника»"/>
+    <file name="220px-carpathiadeck.gif" crc="3873280781" seo="true" ref="крушение-«титаника»"/>
+    <file name="220px-titanic_life_boats_recovered.jpg" crc="3767272089" seo="true" ref="крушение-«титаника»"/>
+    <file name="180px-evening_sun_15_04.jpg" crc="170690792" seo="true" ref="освещение-в-сми"/>
+    <file name="edited_image_of_rms_mauretania_as_rms_carpathia.jpg" crc="4073560345" seo="true" ref="освещение-в-сми"/>
+    <file name="180px-titanic-nyt.jpg" crc="3794182247" seo="true" ref="освещение-в-сми"/>
+    <file name="sun_building_in_new_york_city_after_the_sinking_of_the_titanic.jpg" crc="454739027" seo="true" ref="освещение-в-сми"/>
+    <file name="210px-boatbbymb.gif" crc="3880061649" seo="true" ref="освещение-в-сми"/>
+    <file name="body_of_rms_titanic_victim_aboard_rescue_vessel_cs_minia,_april_or_may_1912.jpg" crc="504613966" seo="true" ref="освещение-в-сми"/>
+    <file name="body_of_rms_titanic_victim.jpg" crc="24405219" seo="true" ref="освещение-в-сми"/>
+    <file name="180px-titanic_watch.jpg" crc="4002762729" seo="true" ref="освещение-в-сми"/>
+    <file name="200px-enquete_ismay.jpg" crc="450547125" seo="true" ref="освещение-в-сми"/>
+    <file name="250px-collision_of_costa_concordia_11.jpg" crc="4072623167" seo="true" ref="причины-крушения"/>
+    <file name="southampton-titanicengineersmemorial.jpg" crc="429053310" seo="true" ref="причины-крушения"/>
+    <file name="180px-captain_smith_statue.jpg" crc="3803591254" seo="true" ref="причины-крушения"/>
+    <file name="rms_titanic_musician-s_memorial_-_southampton.jpg" crc="3761647952" seo="true" ref="причины-крушения"/>
+    <file name="titanic_memorial_belfast_may_2008.jpg" crc="4212537072" seo="true" ref="причины-крушения"/>
+    <file name="250px-titanic_wreck_bow.jpg" crc="3885559145" seo="true" ref="обломки"/>
+    <file name="titanic-s_rivets.jpg" crc="4218781397" seo="true" ref="обломки"/>
+    <file name="titanic-s_porthole.jpg" crc="4016044357" seo="true" ref="обломки"/>
+    <file name="titanic-s_bolts.jpg" crc="3944261270" seo="true" ref="обломки"/>
+    <file name="titanic-s_bench.jpg" crc="77712399" seo="true" ref="обломки"/>
+    <file name="thomashardy_restored.jpg" crc="3987210374" seo="true" ref="в-массовой-культуре"/>
+    <file name="200px-the_ship_that_will_never_return.jpg" crc="244876322" seo="true" ref="в-массовой-культуре"/>
+    <file name="200px-my_sweetheart_went_down_with_the_ship.jpg" crc="3838464849" seo="true" ref="в-массовой-культуре"/>
+    <file name="285px-rms_titanic-1997.jpg" crc="4046425678" seo="true" ref="в-массовой-культуре"/>
+    <file name="250px-titanic_belfast_side_view.jpg" crc="467110119" seo="true" ref="в-массовой-культуре"/>
+  </folder>
+  <file name="index.html" crc="178233521" seo="true" mt="1624630211501" redirect="true"/>
+  <file name="предпосылки-строительства.html" crc="435055352" seo="true" mt="1617786047051" redirect="true"/>
+  <file name="постройка.html" crc="438307784" seo="true" mt="1617967548646" redirect="true"/>
+  <file name="конструкция.html" crc="4043461187" seo="true" mt="1624711248606" redirect="true"/>
+  <file name="оборудование.html" crc="4127657974" seo="true" mt="1624711590668" redirect="true"/>
+  <file name="внутреннее-убранство.html" crc="350162096" seo="true" mt="1625161140089" redirect="true"/>
+  <file name="ходовые-испытания.html" crc="297691369" seo="true" mt="1617790733307" redirect="true"/>
+  <file name="первый-и-последний-рейс.html" crc="96219045" seo="true" mt="1624712550817" redirect="true"/>
+  <file name="крушение-«титаника».html" crc="4194233132" seo="true" mt="1624712781282" redirect="true"/>
+  <file name="освещение-в-сми.html" crc="4091462103" seo="true" mt="1624713186161" redirect="true"/>
+  <file name="причины-крушения.html" crc="4062789545" seo="true" mt="1617792225301" redirect="true"/>
+  <file name="обломки.html" crc="173236286" seo="true" mt="1617792270384" redirect="true"/>
+  <file name="в-массовой-культуре.html" crc="386618283" seo="true" mt="1625216981349" redirect="true"/>
+</manifest>
